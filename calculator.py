@@ -1,7 +1,5 @@
 from tkinter import *
 
-
-
 root=Tk()
 root.title("scientific calculator")
 e=Entry(root,width=50,relief=RIDGE,borderwidth=2,fg="white",bg="black")
